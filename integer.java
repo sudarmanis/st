@@ -3,7 +3,7 @@ import java.util.*;
 public class integer
 {
 	public static void main(String[] args) {
-		int n,k,m=0,i;
+int n,k,m=0,i;
 		Scanner sc=new Scanner(System.in);
 	    System.out.println("value");
 	    n=sc.nextInt();
