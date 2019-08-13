@@ -16,8 +16,9 @@ int n,k,m=0,i;
 	    for( i=1;i<=k;i++)
 	    {
 	        m=m+i;
-	        System.out.println("values of k="+m);
+	        
 	        
 	    }
+		System.out.println("values of k="+m);
 	}
 }
